@@ -38,7 +38,7 @@ class adress{
     	
      }
      void getAdress() {
-    	 System.out.println("Adress : "+country+","+state+","+city+","+street+","+pinCode);
+    	 System.out.println("Adress : "+street+"("+pinCode+")"+city+","+state+","+country);
      }
 }
 class date extends adress{
@@ -185,8 +185,8 @@ public class test  {
 		System.out.println("\t**Enter your Details**");
 	//	• Create an employee database of a company having 500 employees: You can create an array
 	//	of objects. [2 points]
-		employee e[]=new employee[500];
-		for(int i=0;i<500;i++) {
+		employee e[]=new employee[1];
+		for(int i=0;i<e.length;i++) {
 			System.out.println("enter your employee id");
 			int empid =sc.nextInt();
 			System.out.println("enter your name");
