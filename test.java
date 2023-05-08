@@ -219,6 +219,78 @@ public class test  {
 		
 	}
 }
+//**Enter your Details**
+//enter your employee id
+//25008
+//enter your name
+//dannish
+//enter your job position
+//manager
+//enter your contact number
+//+9123432
+//enter your salary
+//222222.3
+//
+//**Enter your complete Adress**
+//Enter your Country
+//india
+//Enter your State
+//kashmir
+//Enter your City
+//srinager
+//Enter your Street
+//anantnag
+//Enter your Pincode
+//19222222
+//
+//**Enter your Date of Joining**
+//enter day number 
+//22
+//enter month number
+//2
+//enter year
+//2023
+//**Details of Employee**
+//Name : dannish
+//Employ id  : 25008
+//Job Position : manager
+//Salary : 222222.3
+//Contact Number : +9123432
+//Date of Joining : 22-2-2023
+//Adress : anantnag(19222222)srinager,kashmir,india
+//
+//**The number of foreign employees : 0
+//
+//**Details of employees who are manager by profession**
+//**Details of Employee**
+//Name : dannish
+//Employ id  : 25008
+//Job Position : manager
+//Salary : 222222.3
+//Contact Number : +9123432
+//Date of Joining : 22-2-2023
+//Adress : anantnag(19222222)srinager,kashmir,india
+//
+//**Details of employees with salary in a range of 150000 INR to 300000 INR**
+//**Details of Employee**
+//Name : dannish
+//Employ id  : 25008
+//Job Position : manager
+//Salary : 222222.3
+//Contact Number : +9123432
+//Date of Joining : 22-2-2023
+//Adress : anantnag(19222222)srinager,kashmir,india
+//
+//**Details of employees whose hireDate is between 01-04-2022 to 31-03-2023
+//**Details of Employee**
+//Name : dannish
+//Employ id  : 25008
+//Job Position : manager
+//Salary : 222222.3
+//Contact Number : +9123432
+//Date of Joining : 22-2-2023
+//Adress : anantnag(19222222)srinager,kashmir,india
+
 
 
 
