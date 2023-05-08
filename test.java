@@ -223,7 +223,7 @@ public class test  {
 //enter your employee id
 //25008
 //enter your name
-//dannish
+//danish
 //enter your job position
 //manager
 //enter your contact number
@@ -251,7 +251,7 @@ public class test  {
 //enter year
 //2023
 //**Details of Employee**
-//Name : dannish
+//Name : danish
 //Employ id  : 25008
 //Job Position : manager
 //Salary : 222222.3
@@ -263,7 +263,7 @@ public class test  {
 //
 //**Details of employees who are manager by profession**
 //**Details of Employee**
-//Name : dannish
+//Name : danish
 //Employ id  : 25008
 //Job Position : manager
 //Salary : 222222.3
@@ -273,7 +273,7 @@ public class test  {
 //
 //**Details of employees with salary in a range of 150000 INR to 300000 INR**
 //**Details of Employee**
-//Name : dannish
+//Name : danish
 //Employ id  : 25008
 //Job Position : manager
 //Salary : 222222.3
@@ -283,7 +283,7 @@ public class test  {
 //
 //**Details of employees whose hireDate is between 01-04-2022 to 31-03-2023
 //**Details of Employee**
-//Name : dannish
+//Name : danish
 //Employ id  : 25008
 //Job Position : manager
 //Salary : 222222.3
